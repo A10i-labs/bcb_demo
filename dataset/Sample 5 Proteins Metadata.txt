@@ -1,0 +1,965 @@
+LOCUS       NP_000508                142 aa            linear   PRI 27-APR-2025
+DEFINITION  hemoglobin subunit alpha [Homo sapiens].
+ACCESSION   NP_000508
+VERSION     NP_000508.1
+DBSOURCE    REFSEQ: accession NM_000517.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Sun,M., Lou,J., Xinghe,W., Zhao,Y., Dai,Y., Liu,S. and Yan,T.
+  TITLE     Hb H disease associated with compound heterozygosity for --SEA
+            deletion and a novel alpha globin chain variant (HBA2:c.175C>A) on
+            the distal histidine in a Chinese family
+  JOURNAL   Hematology 29 (1), 2339559 (2024)
+   PUBMED   38626234
+  REMARK    GeneRIF: Hb H disease associated with compound heterozygosity for
+            --[SEA] deletion and a novel alpha globin chain variant
+            (HBA2:c.175C>A) on the distal histidine in a Chinese family.
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Chen,L.Z., Yan,T.Z., Huang,J., Zhong,Q.Y., Qin,X., Tang,N. and
+            Luo,S.Q.
+  TITLE     [Molecular Diagnosis and Pedigree Analysis of Rare Mutations in
+            Non-coding Region of HBA2 Gene]
+  JOURNAL   Zhongguo Shi Yan Xue Ye Xue Za Zhi 32 (3), 940-944 (2024)
+   PUBMED   38926992
+  REMARK    GeneRIF: [Molecular Diagnosis and Pedigree Analysis of Rare
+            Mutations in Non-coding Region of HBA2 Gene].
+REFERENCE   3  (residues 1 to 142)
+  AUTHORS   Wang,Q.H., Chen,X.Y., Tang,N., Yan,T.Z., Huang,J., Zhong,Q.Y. and
+            Luo,S.Q.
+  TITLE     [Cases Analysis of Hemoglobin H Disease Caused by HBA2:c.2T>C and
+            HBA2:c.2delT Mutations]
+  JOURNAL   Zhongguo Shi Yan Xue Ye Xue Za Zhi 32 (2), 520-524 (2024)
+   PUBMED   38660861
+  REMARK    GeneRIF: [Cases Analysis of Hemoglobin H Disease Caused by
+            HBA2:c.2T>C and HBA2:c.2delT Mutations].
+REFERENCE   4  (residues 1 to 142)
+  AUTHORS   Traeger-Synodinos,J., Vrettou,C., Sofocleous,C., Zurlo,M.,
+            Finotti,A. and Gambari,R.
+  CONSRTM   International Hemoglobinopathy Research Network (INHERENT)
+  TITLE     Impact of alpha-Globin Gene Expression and alpha-Globin Modifiers
+            on the Phenotype of beta-Thalassemia and Other Hemoglobinopathies:
+            Implications for Patient Management
+  JOURNAL   Int J Mol Sci 25 (6), 3400 (2024)
+   PUBMED   38542374
+  REMARK    GeneRIF: Impact of alpha-Globin Gene Expression and alpha-Globin
+            Modifiers on the Phenotype of beta-Thalassemia and Other
+            Hemoglobinopathies: Implications for Patient Management.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   5  (residues 1 to 142)
+  AUTHORS   Ghassemifar,R., Forster,L., Qadah,T. and Finlayson,J.
+  TITLE     Identification and characterization of two novel and differentially
+            expressed isoforms of human alpha2- and alpha1-globin genes
+  JOURNAL   Hemoglobin 36 (5), 421-432 (2012)
+   PUBMED   22738435
+  REMARK    GeneRIF: This study, for the first time, confirms the presence of
+            two isoforms for both the alpha2- and alpha1-globin genes with
+            varying transcription levels in healthy individuals.
+REFERENCE   6  (residues 1 to 142)
+  AUTHORS   Tamary,H. and Dgany,O.
+  TITLE     Alpha-Thalassemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301608
+REFERENCE   7  (residues 1 to 142)
+  AUTHORS   Liebhaber,S.A., Goossens,M.J. and Kan,Y.W.
+  TITLE     Cloning and complete nucleotide sequence of human 5'-alpha-globin
+            gene
+  JOURNAL   Proc Natl Acad Sci U S A 77 (12), 7054-7058 (1980)
+   PUBMED   6452630
+REFERENCE   8  (residues 1 to 142)
+  AUTHORS   Marinucci,M., Mavilio,F., Massa,A., Gabbianelli,M.,
+            Fontanarosa,P.P., Camagna,A., Ignesti,C. and Tentori,L.
+  TITLE     A new abnormal human hemoglobin: Hb Prato (alpha 2 31 (B12) Arg
+            leads to Ser beta 2)
+  JOURNAL   Biochim Biophys Acta 578 (2), 534-540 (1979)
+   PUBMED   486536
+REFERENCE   9  (residues 1 to 142)
+  AUTHORS   Sanguansermsri,T., Matragoon,S., Changloah,L. and Flatz,G.
+  TITLE     Hemoglobin Suan-Dok (alpha 2 109 (G16) Leu replaced by Arg beta 2):
+            an unstable variant associated with alpha-thalassemia
+  JOURNAL   Hemoglobin 3 (2-3), 161-174 (1979)
+   PUBMED   478977
+REFERENCE   10 (residues 1 to 142)
+  AUTHORS   Moo-Penn,W.F., Jue,D.L., Johnson,M.H., Wilson,S.M., Therrell,B. Jr.
+            and Schmidt,R.M.
+  TITLE     Hemoglobin Tarrant: alpha126(H9) Asp leads to Asn. A new hemoglobin
+            variant in the alpha1beta1 contact region showing high oxygen
+            affinity and reduced cooperativity
+  JOURNAL   Biochim Biophys Acta 490 (2), 443-451 (1977)
+   PUBMED   13856
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from V00493.1, Z84721.1 and
+            AI016696.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: The human alpha globin gene cluster located on chromosome
+            16 spans about 30 kb and includes seven loci: 5'- zeta - pseudozeta
+            - mu - pseudoalpha-1 - alpha-2 - alpha-1 - theta - 3'. The alpha-2
+            (HBA2) and alpha-1 (HBA1) coding sequences are identical. These
+            genes differ slightly over the 5' untranslated regions and the
+            introns, but they differ significantly over the 3' untranslated
+            regions. Two alpha chains plus two beta chains constitute HbA,
+            which in normal adult life comprises about 97% of the total
+            hemoglobin; alpha chains combine with delta chains to constitute
+            HbA-2, which with HbF (fetal hemoglobin) makes up the remaining 3%
+            of adult hemoglobin. Alpha thalassemias result from deletions of
+            each of the alpha genes as well as deletions of both HBA2 and HBA1;
+            some nondeletion alpha thalassemias have also been reported.
+            [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AI816040.1, AI815806.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000251595.11/ ENSP00000251595.6
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16p13.3"
+     Protein         1..142
+                     /product="hemoglobin subunit alpha"
+                     /note="alpha globin; alpha-2 globin; hemoglobin alpha
+                     chain; mutant hemoglobin alpha 2 globin chain; hemoglobin,
+                     alpha 2"
+                     /calculated_mol_wt=15126
+     Region          3..142
+                     /region_name="Hb-alpha-like"
+                     /note="Hemoglobin alpha, zeta, mu, theta, and related Hb
+                     subunits; cd08927"
+                     /db_xref="CDD:381263"
+     Site            4
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            8
+                     /site_type="glycosylation"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            9..10
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            9
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            12
+                     /site_type="other"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            14..15
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            17
+                     /site_type="glycosylation"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            17
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            25..26
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            25
+                     /site_type="phosphorylation"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            30..31
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            order(32,35..36,42..43,93,95..96,104,108,111..112,
+                     118..120,123..124,127,141..142)
+                     /site_type="other"
+                     /note="tetramer interface [polypeptide binding]"
+                     /db_xref="CDD:381263"
+     Site            order(33,43..44,59,62..63,66,84,88,98..99,102,137)
+                     /site_type="other"
+                     /note="heme binding site [chemical binding]"
+                     /db_xref="CDD:381263"
+     Site            36
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            41
+                     /site_type="glycosylation"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            46..47
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            48..49
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            50
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            53..54
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            56..57
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            57
+                     /site_type="other"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            60..61
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            61
+                     /site_type="other"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            62
+                     /site_type="glycosylation"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            91
+                     /site_type="other"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            92..93
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     mat_peptide     96..104
+                     /product="Hemopressin.
+                     /evidence=ECO:0000305|PubMed:18077343. /id=PRO_0000455882"
+                     /note="propagated from UniProtKB/Swiss-Prot (P69905.2)"
+                     /calculated_mol_wt=1054
+     Site            100
+                     /site_type="other"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            103
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            107..108
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            109..110
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            109
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            122..123
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            125
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            132
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            134..135
+                     /site_type="other"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P69905.2)"
+     Site            135
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            138
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     Site            139
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P01942; propagated from
+                     UniProtKB/Swiss-Prot (P69905.2)"
+     CDS             1..142
+                     /gene="HBA2"
+                     /gene_synonym="ECYT7; HBA-T2; HBH"
+                     /coded_by="NM_000517.6:38..466"
+                     /db_xref="CCDS:CCDS10398.1"
+                     /db_xref="GeneID:3040"
+                     /db_xref="HGNC:HGNC:4824"
+                     /db_xref="MIM:141850"
+ORIGIN      
+        1 mvlspadktn vkaawgkvga hageygaeal ermflsfptt ktyfphfdls hgsaqvkghg
+       61 kkvadaltna vahvddmpna lsalsdlhah klrvdpvnfk llshcllvtl aahlpaeftp
+      121 avhasldkfl asvstvltsk yr
+//
+
+LOCUS       NP_001001                249 aa            linear   PRI 31-OCT-2000
+DEFINITION  ribosomal protein S6 [Homo sapiens].
+ACCESSION   NP_001001
+VERSION     NP_001001.1
+DBSOURCE    REFSEQ: accession NM_001010.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 249)
+  AUTHORS   Kenmochi,N., Kawaguchi,T., Rozen,S., Davis,E., Goodman,N.,
+            Hudson,T.J., Tanaka,T. and Page,D.C.
+  TITLE     A map of 75 human ribosomal protein genes
+  JOURNAL   Genome Res. 8 (5), 509-523 (1998)
+   PUBMED   9582194
+REFERENCE   2  (residues 1 to 249)
+  AUTHORS   Pata,I., Hoth,S., Kruppa,J. and Metspalu,A.
+  TITLE     The human ribosomal protein S6 gene: isolation, primary structure
+            and location in chromosome 9
+  JOURNAL   Gene 127 (2), 275-276 (1993)
+   PUBMED   8500771
+REFERENCE   3  (residues 1 to 249)
+  AUTHORS   Pata,I., Hoth,S., Kruppa,J. and Metspalu,A.
+  TITLE     The human ribosomal protein S6 gene: isolation, primary structure
+            and location in chromosome 9
+  JOURNAL   Gene 121 (2), 387-392 (1992)
+   PUBMED   1446836
+  REMARK    Erratum:[[published erratum appears in Gene 1993 May
+            30;127(3):275]]
+REFERENCE   4  (residues 1 to 249)
+  AUTHORS   Antoine,M. and Fried,M.
+  TITLE     The organization of the intron-containing human S6 ribosomal
+            protein (rpS6) gene and determination of its location at chromosome
+            9p21
+  JOURNAL   Hum. Mol. Genet. 1 (8), 565-570 (1992)
+   PUBMED   1301164
+REFERENCE   5  (residues 1 to 249)
+  AUTHORS   Feo,S., Davies,B. and Fried,M.
+  TITLE     The mapping of seven intron-containing ribosomal protein genes
+            shows they are unlinked in the human genome
+  JOURNAL   Genomics 13 (1), 201-207 (1992)
+   PUBMED   1577483
+REFERENCE   6  (residues 1 to 249)
+  AUTHORS   Lott,J.B. and Mackie,G.A.
+  TITLE     Isolation and characterization of cloned cDNAs that code for human
+            ribosomal protein S6
+  JOURNAL   Gene 65 (1), 31-39 (1988)
+  MEDLINE   88284378
+REFERENCE   7  (residues 1 to 249)
+  AUTHORS   Heinze,H., Arnold,H.H., Fischer,D. and Kruppa,J.
+  TITLE     The primary structure of the human ribosomal protein S6 derived
+            from a cloned cDNA
+  JOURNAL   J. Biol. Chem. 263 (9), 4139-4144 (1988)
+   PUBMED   3279029
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from M20020.1.
+            
+            [WARNING] On Nov 30, 2001 this sequence was replaced by
+            NP_001001.2.
+FEATURES             Location/Qualifiers
+     source          1..249
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="9"
+                     /map="9p21"
+     Protein         1..249
+                     /product="ribosomal protein S6"
+                     /calculated_mol_wt=28565
+     Region          1..127
+                     /region_name="Ribosomal protein S6e"
+                     /note="Ribosomal_S6e"
+                     /db_xref="CDD:pfam01092"
+     CDS             1..249
+                     /gene="RPS6"
+                     /coded_by="NM_001010.1:28..777"
+                     /db_xref="GeneID:6194"
+                     /db_xref="MIM:180460"
+ORIGIN      
+        1 mklnisfpat gcqklievdd ertlrtfyek rmatevaada lgeewkgyvv risggndkqg
+       61 fpmkqgvlth grvrlllskg hscyrprrtg erkrksvrgc ivdanlsvln lvivkkgekd
+      121 ipgltdttvp rrlgpkrasr irkrfnlske ddvrqyvvrk plnkegkkpr tkapkiqrlv
+      181 tprvlqhkrr rialkqqrtk knkeeaaeya kllakrmkea kekrqeqiak rrrlsslras
+      241 tsksessqk
+//
+
+LOCUS       NP_001002                194 aa            linear   PRI 28-APR-2025
+DEFINITION  small ribosomal subunit protein eS7 [Homo sapiens].
+ACCESSION   NP_001002
+VERSION     NP_001002.1
+DBSOURCE    REFSEQ: accession NM_001011.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 194)
+  AUTHORS   Zhou,Y.J., Yang,M.L., He,X., Gu,H.Y., Ren,J.H., Cheng,S.T., Fu,Z.,
+            Zhang,Z.Z. and Chen,J.
+  TITLE     RNA-binding protein RPS7 promotes hepatocellular carcinoma
+            progression via LOXL2-dependent activation of ITGB1/FAK/SRC
+            signaling
+  JOURNAL   J Exp Clin Cancer Res 43 (1), 45 (2024)
+   PUBMED   38326908
+  REMARK    GeneRIF: RNA-binding protein RPS7 promotes hepatocellular carcinoma
+            progression via LOXL2-dependent activation of ITGB1/FAK/SRC
+            signaling.
+            Erratum:[J Exp Clin Cancer Res. 2024 Mar 14;43(1):80. doi:
+            10.1186/s13046-024-02999-9. PMID: 38481346]
+            Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 194)
+  AUTHORS   Skorodumova,L.O., Davydenko,K.A., Filatova,A.Y., Skoblov,M.Y.,
+            Kulemin,N.A., Khadzhieva,M.B., Zakharova,E.S., Gordeeva,V.D.,
+            Smetanina,N.S., Fedyushkina,I.V., Anastasevich,L.A. and Larin,S.S.
+  TITLE     Splice-site variant in the RPS7 5'-UTR leads to a decrease in the
+            mRNA level and development of Diamond-Blackfan anemia
+  JOURNAL   Clin Genet 103 (1), 93-96 (2023)
+   PUBMED   36057918
+  REMARK    GeneRIF: Splice-site variant in the RPS7 5'-UTR leads to a decrease
+            in the mRNA level and development of Diamond-Blackfan anemia.
+REFERENCE   3  (residues 1 to 194)
+  AUTHORS   Kubickova,A., Maceckova,Z., Vojta,P., Ondra,M., Volejnikova,J.,
+            Koralkova,P., Jungova,A., Jahoda,O., Mojzikova,R., Hadacova,I.,
+            Cermak,J., Horvathova,M., Pospisilova,D. and Hajduch,M.
+  TITLE     Missense mutation in RPS7 causes Diamond-Blackfan anemia via
+            alteration of erythrocyte metabolism, protein translation and
+            induction of ribosomal stress
+  JOURNAL   Blood Cells Mol Dis 97, 102690 (2022)
+   PUBMED   35871033
+  REMARK    GeneRIF: Missense mutation in RPS7 causes Diamond-Blackfan anemia
+            via alteration of erythrocyte metabolism, protein translation and
+            induction of ribosomal stress.
+REFERENCE   4  (residues 1 to 194)
+  AUTHORS   Singh,S., Vanden Broeck,A., Miller,L., Chaker-Margot,M. and
+            Klinge,S.
+  TITLE     Nucleolar maturation of the human small subunit processome
+  JOURNAL   Science 373 (6560), eabj5338 (2021)
+   PUBMED   34516797
+REFERENCE   5  (residues 1 to 194)
+  AUTHORS   Huttlin,E.L., Bruckner,R.J., Navarrete-Perea,J., Cannon,J.R.,
+            Baltier,K., Gebreab,F., Gygi,M.P., Thornock,A., Zarraga,G., Tam,S.,
+            Szpyt,J., Gassaway,B.M., Panov,A., Parzen,H., Fu,S., Golbazi,A.,
+            Maenpaa,E., Stricker,K., Guha Thakurta,S., Zhang,T., Rad,R.,
+            Pan,J., Nusinow,D.P., Paulo,J.A., Schweppe,D.K., Vaites,L.P.,
+            Harper,J.W. and Gygi,S.P.
+  TITLE     Dual proteome-scale networks reveal cell-specific remodeling of the
+            human interactome
+  JOURNAL   Cell 184 (11), 3022-3040 (2021)
+   PUBMED   33961781
+REFERENCE   6  (residues 1 to 194)
+  AUTHORS   Vladimirov,S.N., Ivanov,A.V., Karpova,G.G., Musolyamov,A.K.,
+            Egorov,T.A., Thiede,B., Wittmann-Liebold,B. and Otto,A.
+  TITLE     Characterization of the human small-ribosomal-subunit proteins by
+            N-terminal and internal sequencing, and mass spectrometry
+  JOURNAL   Eur J Biochem 239 (1), 144-149 (1996)
+   PUBMED   8706699
+REFERENCE   7  (residues 1 to 194)
+  AUTHORS   Annilo,T., Laan,M., Stahl,J. and Metspalu,A.
+  TITLE     The human ribosomal protein S7-encoding gene: isolation, structure
+            and localization in 2p25
+  JOURNAL   Gene 165 (2), 297-302 (1995)
+   PUBMED   8522193
+REFERENCE   8  (residues 1 to 194)
+  AUTHORS   Wool,I.G., Chan,Y.L. and Gluck,A.
+  TITLE     Structure and evolution of mammalian ribosomal proteins
+  JOURNAL   Biochem Cell Biol 73 (11-12), 933-947 (1995)
+   PUBMED   8722009
+  REMARK    Review article
+REFERENCE   9  (residues 1 to 194)
+  AUTHORS   Mundus,D.A., Bulygin,K.N., Yamkovoy,V.I., Malygin,A.A.,
+            Repkova,M.N., Vratskikh,L.V., Venijaminova,A.G., Vladimirov,S.N.
+            and Karpova,G.G.
+  TITLE     Structural arrangement of the codon-anticodon interaction area in
+            human placenta ribosomes. Affinity labelling of the 40S subunits by
+            derivatives of oligoribonucleotides containing the AUG codon
+  JOURNAL   Biochim Biophys Acta 1173 (3), 273-282 (1993)
+   PUBMED   8318536
+REFERENCE   10 (residues 1 to 194)
+  AUTHORS   Sieff,C.
+  TITLE     Diamond-Blackfan Anemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301769
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff in
+            collaboration with Francesco Amaldi. The reference sequence was
+            derived from BU963807.1, BC002866.2 and BF312642.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: Ribosomes, the organelles that catalyze protein synthesis,
+            consist of a small 40S subunit and a large 60S subunit. Together
+            these subunits are composed of 4 RNA species and approximately 80
+            structurally distinct proteins. This gene encodes a ribosomal
+            protein that is a component of the 40S subunit. The protein belongs
+            to the S7E family of ribosomal proteins. It is located in the
+            cytoplasm. As is typical for genes encoding ribosomal proteins,
+            there are multiple processed pseudogenes of this gene dispersed
+            through the genome. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: CK125944.1, SRR5189655.161158.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000645674.2/ ENSP00000496757.1
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..194
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2p25.3"
+     Protein         1..194
+                     /product="small ribosomal subunit protein eS7"
+                     /EC_number="3.6.5.3"
+                     /note="40S ribosomal protein S7"
+                     /calculated_mol_wt=21996
+     Site            1
+                     /site_type="acetylation"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0007744|PubMed:25944712; propagated from
+                     UniProtKB/Swiss-Prot (P62081.1)"
+     Region          7..189
+                     /region_name="Ribosomal_S7e"
+                     /note="Ribosomal protein S7e; pfam01251"
+                     /db_xref="CDD:460135"
+     Site            74
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P62081.1)"
+     CDS             1..194
+                     /gene="RPS7"
+                     /gene_synonym="DBA8; eS7; S7"
+                     /coded_by="NM_001011.4:110..694"
+                     /db_xref="CCDS:CCDS1648.1"
+                     /db_xref="GeneID:6201"
+                     /db_xref="HGNC:HGNC:10440"
+                     /db_xref="MIM:603658"
+ORIGIN      
+        1 mfsssakivk pngekpdefe sgisqallel emnsdlkaql relnitaake ievgggrkai
+       61 iifvpvpqlk sfqkiqvrlv relekkfsgk hvvfiaqrri lpkptrksrt knkqkrprsr
+      121 tltavhdail edlvfpseiv gkrirvkldg srlikvhldk aqqnnvehkv etfsgvykkl
+      181 tgkdvnfefp efql
+//
+
+LOCUS       NP_001003                208 aa            linear   PRI 28-APR-2025
+DEFINITION  small ribosomal subunit protein eS8 [Homo sapiens].
+ACCESSION   NP_001003
+VERSION     NP_001003.1
+DBSOURCE    REFSEQ: accession NM_001012.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 208)
+  AUTHORS   Cho,N.H., Cheveralls,K.C., Brunner,A.D., Kim,K., Michaelis,A.C.,
+            Raghavan,P., Kobayashi,H., Savy,L., Li,J.Y., Canaj,H., Kim,J.Y.S.,
+            Stewart,E.M., Gnann,C., McCarthy,F., Cabrera,J.P., Brunetti,R.M.,
+            Chhun,B.B., Dingle,G., Hein,M.Y., Huang,B., Mehta,S.B.,
+            Weissman,J.S., Gomez-Sjoberg,R., Itzhak,D.N., Royer,L.A., Mann,M.
+            and Leonetti,M.D.
+  TITLE     OpenCell: Endogenous tagging for the cartography of human cellular
+            organization
+  JOURNAL   Science 375 (6585), eabi6983 (2022)
+   PUBMED   35271311
+REFERENCE   2  (residues 1 to 208)
+  AUTHORS   Singh,S., Vanden Broeck,A., Miller,L., Chaker-Margot,M. and
+            Klinge,S.
+  TITLE     Nucleolar maturation of the human small subunit processome
+  JOURNAL   Science 373 (6560), eabj5338 (2021)
+   PUBMED   34516797
+REFERENCE   3  (residues 1 to 208)
+  AUTHORS   Bi,N., Sun,Y., Lei,S., Zeng,Z., Zhang,Y., Sun,C. and Yu,C.
+  TITLE     Identification of 40S ribosomal protein S8 as a novel biomarker for
+            alcohol-associated hepatocellular carcinoma using weighted gene
+            co-expression network analysis
+  JOURNAL   Oncol Rep 44 (2), 611-627 (2020)
+   PUBMED   32627011
+  REMARK    GeneRIF: Identification of 40S ribosomal protein S8 as a novel
+            biomarker for alcoholassociated hepatocellular carcinoma using
+            weighted gene coexpression network analysis.
+REFERENCE   4  (residues 1 to 208)
+  AUTHORS   Luck,K., Kim,D.K., Lambourne,L., Spirohn,K., Begg,B.E., Bian,W.,
+            Brignall,R., Cafarelli,T., Campos-Laborie,F.J., Charloteaux,B.,
+            Choi,D., Cote,A.G., Daley,M., Deimling,S., Desbuleux,A., Dricot,A.,
+            Gebbia,M., Hardy,M.F., Kishore,N., Knapp,J.J., Kovacs,I.A.,
+            Lemmens,I., Mee,M.W., Mellor,J.C., Pollis,C., Pons,C.,
+            Richardson,A.D., Schlabach,S., Teeking,B., Yadav,A., Babor,M.,
+            Balcha,D., Basha,O., Bowman-Colin,C., Chin,S.F., Choi,S.G.,
+            Colabella,C., Coppin,G., D'Amata,C., De Ridder,D., De Rouck,S.,
+            Duran-Frigola,M., Ennajdaoui,H., Goebels,F., Goehring,L., Gopal,A.,
+            Haddad,G., Hatchi,E., Helmy,M., Jacob,Y., Kassa,Y., Landini,S.,
+            Li,R., van Lieshout,N., MacWilliams,A., Markey,D., Paulson,J.N.,
+            Rangarajan,S., Rasla,J., Rayhan,A., Rolland,T., San-Miguel,A.,
+            Shen,Y., Sheykhkarimli,D., Sheynkman,G.M., Simonovsky,E., Tasan,M.,
+            Tejeda,A., Tropepe,V., Twizere,J.C., Wang,Y., Weatheritt,R.J.,
+            Weile,J., Xia,Y., Yang,X., Yeger-Lotem,E., Zhong,Q., Aloy,P.,
+            Bader,G.D., De Las Rivas,J., Gaudet,S., Hao,T., Rak,J.,
+            Tavernier,J., Hill,D.E., Vidal,M., Roth,F.P. and Calderwood,M.A.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   5  (residues 1 to 208)
+  AUTHORS   Fasci,D., van Ingen,H., Scheltema,R.A. and Heck,A.J.R.
+  TITLE     Histone Interaction Landscapes Visualized by Crosslinking Mass
+            Spectrometry in Intact Cell Nuclei
+  JOURNAL   Mol Cell Proteomics 17 (10), 2018-2033 (2018)
+   PUBMED   30021884
+REFERENCE   6  (residues 1 to 208)
+  AUTHORS   Nicoloso,M., Qu,L.H., Michot,B. and Bachellerie,J.P.
+  TITLE     Intron-encoded, antisense small nucleolar RNAs: the
+            characterization of nine novel species points to their direct role
+            as guides for the 2'-O-ribose methylation of rRNAs
+  JOURNAL   J Mol Biol 260 (2), 178-195 (1996)
+   PUBMED   8764399
+REFERENCE   7  (residues 1 to 208)
+  AUTHORS   Vladimirov,S.N., Ivanov,A.V., Karpova,G.G., Musolyamov,A.K.,
+            Egorov,T.A., Thiede,B., Wittmann-Liebold,B. and Otto,A.
+  TITLE     Characterization of the human small-ribosomal-subunit proteins by
+            N-terminal and internal sequencing, and mass spectrometry
+  JOURNAL   Eur J Biochem 239 (1), 144-149 (1996)
+   PUBMED   8706699
+REFERENCE   8  (residues 1 to 208)
+  AUTHORS   Wool,I.G., Chan,Y.L. and Gluck,A.
+  TITLE     Structure and evolution of mammalian ribosomal proteins
+  JOURNAL   Biochem Cell Biol 73 (11-12), 933-947 (1995)
+   PUBMED   8722009
+  REMARK    Review article
+REFERENCE   9  (residues 1 to 208)
+  AUTHORS   Davies,B. and Fried,M.
+  TITLE     The structure of the human intron-containing S8 ribosomal protein
+            gene and determination of its chromosomal location at 1p32-p34.1
+  JOURNAL   Genomics 15 (1), 68-75 (1993)
+   PUBMED   8432552
+REFERENCE   10 (residues 1 to 208)
+  AUTHORS   Pogue-Geile,K., Geiser,J.R., Shu,M., Miller,C., Wool,I.G.,
+            Meisler,A.I. and Pipas,J.M.
+  TITLE     Ribosomal protein genes are overexpressed in colorectal cancer:
+            isolation of a cDNA clone encoding the human S3 ribosomal protein
+  JOURNAL   Mol Cell Biol 11 (8), 3842-3849 (1991)
+   PUBMED   1712897
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff in
+            collaboration with Francesco Amaldi. The reference sequence was
+            derived from AL592166.16.
+            
+            Summary: Ribosomes, the organelles that catalyze protein synthesis,
+            consist of a small 40S subunit and a large 60S subunit. Together
+            these subunits are composed of 4 RNA species and approximately 80
+            structurally distinct proteins. This gene encodes a ribosomal
+            protein that is a component of the 40S subunit. The protein belongs
+            to the S8E family of ribosomal proteins. It is located in the
+            cytoplasm. Increased expression of this gene in colorectal tumors
+            and colon polyps compared to matched normal colonic mucosa has been
+            observed. This gene is co-transcribed with the small nucleolar RNA
+            genes U38A, U38B, U39, and U40, which are located in its fourth,
+            fifth, first, and second introns, respectively. As is typical for
+            genes encoding ribosomal proteins, there are multiple processed
+            pseudogenes of this gene dispersed through the genome. [provided by
+            RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1163655.316090.1,
+                                           SRR5189658.4207.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000396651.8/ ENSP00000379888.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p34.1"
+     Protein         1..208
+                     /product="small ribosomal subunit protein eS8"
+                     /note="40S ribosomal protein S8; OK/SW-cl.83"
+                     /calculated_mol_wt=24074
+     Region          1..206
+                     /region_name="PTZ00148"
+                     /note="40S ribosomal protein S8; Provisional"
+                     /db_xref="CDD:240292"
+     Region          1..27
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62241.2)"
+     Site            37
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P62242; propagated from
+                     UniProtKB/Swiss-Prot (P62241.2)"
+     Site            128
+                     /site_type="acetylation"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P62242; propagated from
+                     UniProtKB/Swiss-Prot (P62241.2)"
+     Site            130
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P62241.2)"
+     Site            160
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P62241.2)"
+     CDS             1..208
+                     /gene="RPS8"
+                     /gene_synonym="eS8; S8"
+                     /coded_by="NM_001012.2:58..684"
+                     /db_xref="CCDS:CCDS513.1"
+                     /db_xref="GeneID:6202"
+                     /db_xref="HGNC:HGNC:10441"
+                     /db_xref="MIM:600357"
+ORIGIN      
+        1 mgisrdnwhk rrktggkrkp yhkkrkyelg rpaantkigp rrihtvrvrg gnkkyralrl
+       61 dvgnfswgse cctrktriid vvynasnnel vrtktlvknc ivlidstpyr qwyeshyalp
+      121 lgrkkgaklt peeeeilnkk rskkiqkkyd erkknakiss lleeqfqqgk llaciasrpg
+      181 qcgradgyvl egkelefylr kikarkgk
+//
+
+LOCUS       NP_001009                145 aa            linear   PRI 30-APR-2025
+DEFINITION  small ribosomal subunit protein uS19 isoform 2 [Homo sapiens].
+ACCESSION   NP_001009 NP_001074300
+VERSION     NP_001009.1
+DBSOURCE    REFSEQ: accession NM_001018.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 145)
+  AUTHORS   Zhao,M., Liu,A., Mo,L., Wan,G. and Lu,F.
+  TITLE     The value of RPS15 and MRPS27 in ischemic stroke
+  JOURNAL   Medicine (Baltimore) 102 (33), e34706 (2023)
+   PUBMED   37603533
+  REMARK    GeneRIF: The value of RPS15 and MRPS27 in ischemic stroke.
+REFERENCE   2  (residues 1 to 145)
+  AUTHORS   Zhao,Y., Li,Y., Zhu,R., Feng,R., Cui,H., Yu,X., Huang,F., Zhang,R.,
+            Chen,X., Li,L., Chen,Y., Liu,Y., Wang,J., Du,G. and Liu,Z.
+  TITLE     RPS15 interacted with IGF2BP1 to promote esophageal squamous cell
+            carcinoma development via recognizing m6A modification
+  JOURNAL   Signal Transduct Target Ther 8 (1), 224 (2023)
+   PUBMED   37264021
+  REMARK    GeneRIF: RPS15 interacted with IGF2BP1 to promote esophageal
+            squamous cell carcinoma development via recognizing m[6]A
+            modification.
+            Publication Status: Online-Only
+REFERENCE   3  (residues 1 to 145)
+  AUTHORS   Rossler,I., Weigl,S., Fernandez-Fernandez,J., Martin-Villanueva,S.,
+            Strauss,D., Hurt,E., de la Cruz,J. and Pertschy,B.
+  TITLE     The C-terminal tail of ribosomal protein Rps15 is engaged in
+            cytoplasmic pre-40S maturation
+  JOURNAL   RNA Biol 19 (1), 560-574 (2022)
+   PUBMED   35438042
+  REMARK    GeneRIF: The C-terminal tail of ribosomal protein Rps15 is engaged
+            in cytoplasmic pre-40S maturation.
+REFERENCE   4  (residues 1 to 145)
+  AUTHORS   Ntoufa,S., Gerousi,M., Laidou,S., Psomopoulos,F., Tsiolas,G.,
+            Moysiadis,T., Papakonstantinou,N., Mansouri,L., Anagnostopoulos,A.,
+            Stavrogianni,N., Pospisilova,S., Plevova,K., Makris,A.M.,
+            Rosenquist,R. and Stamatopoulos,K.
+  TITLE     RPS15 mutations rewire RNA translation in chronic lymphocytic
+            leukemia
+  JOURNAL   Blood Adv 5 (13), 2788-2792 (2021)
+   PUBMED   34251413
+  REMARK    GeneRIF: RPS15 mutations rewire RNA translation in chronic
+            lymphocytic leukemia.
+REFERENCE   5  (residues 1 to 145)
+  AUTHORS   Haenig,C., Atias,N., Taylor,A.K., Mazza,A., Schaefer,M.H., Russ,J.,
+            Riechers,S.P., Jain,S., Coughlin,M., Fontaine,J.F., Freibaum,B.D.,
+            Brusendorf,L., Zenkner,M., Porras,P., Stroedicke,M., Schnoegl,S.,
+            Arnsburg,K., Boeddrich,A., Pigazzini,L., Heutink,P., Taylor,J.P.,
+            Kirstein,J., Andrade-Navarro,M.A., Sharan,R. and Wanker,E.E.
+  TITLE     Interactome Mapping Provides a Network of Neurodegenerative Disease
+            Proteins and Uncovers Widespread Protein Aggregation in Affected
+            Brains
+  JOURNAL   Cell Rep 32 (7), 108050 (2020)
+   PUBMED   32814053
+REFERENCE   6  (residues 1 to 145)
+  AUTHORS   Roepcke,S., Zhi,D., Vingron,M. and Arndt,P.F.
+  TITLE     Identification of highly specific localized sequence motifs in
+            human ribosomal protein gene promoters
+  JOURNAL   Gene 365, 48-56 (2006)
+   PUBMED   16343812
+REFERENCE   7  (residues 1 to 145)
+  AUTHORS   Kitagawa,M., Takasawa,S., Kikuchi,N., Itoh,T., Teraoka,H.,
+            Yamamoto,H. and Okamoto,H.
+  TITLE     rig encodes ribosomal protein S15. The primary structure of
+            mammalian ribosomal protein S15
+  JOURNAL   FEBS Lett 283 (2), 210-214 (1991)
+   PUBMED   2044758
+REFERENCE   8  (residues 1 to 145)
+  AUTHORS   Shiga,K., Yamamoto,H. and Okamoto,H.
+  TITLE     Isolation and characterization of the human homologue of rig and
+            its pseudogenes: the functional gene has features characteristic of
+            housekeeping genes
+  JOURNAL   Proc Natl Acad Sci U S A 87 (9), 3594-3598 (1990)
+   PUBMED   2159154
+REFERENCE   9  (residues 1 to 145)
+  AUTHORS   Marion,M.J. and Marion,C.
+  TITLE     Ribosomal proteins S2, S6, S10, S14, S15 and S25 are localized on
+            the surface of mammalian 40 S subunits and stabilize their
+            conformation. A study with immobilized trypsin
+  JOURNAL   FEBS Lett 232 (2), 281-285 (1988)
+   PUBMED   3378620
+REFERENCE   10 (residues 1 to 145)
+  AUTHORS   Inoue,C., Shiga,K., Takasawa,S., Kitagawa,M., Yamamoto,H. and
+            Okamoto,H.
+  TITLE     Evolutionary conservation of the insulinoma gene rig and its
+            possible function
+  JOURNAL   Proc Natl Acad Sci U S A 84 (19), 6659-6662 (1987)
+   PUBMED   2821540
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff in
+            collaboration with Francesco Amaldi. The reference sequence was
+            derived from AC027307.5.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Mar 28, 2007 this sequence version replaced NP_001074300.1.
+            
+            Summary: Ribosomes, the organelles that catalyze protein synthesis,
+            consist of a small 40S subunit and a large 60S subunit. Together
+            these subunits are composed of 4 RNA species and approximately 80
+            structurally distinct proteins. This gene encodes a ribosomal
+            protein that is a component of the 40S subunit. The protein belongs
+            to the S19P family of ribosomal proteins. It is located in the
+            cytoplasm. This gene has been found to be activated in various
+            tumors, such as insulinomas, esophageal cancers, and colon cancers.
+            As is typical for genes encoding ribosomal proteins, there are
+            multiple processed pseudogenes of this gene dispersed through the
+            genome. Alternative splicing results in multiple transcript
+            variants. [provided by RefSeq, Apr 2015].
+            
+            Transcript Variant: This variant (2) uses an alternate 5'-terminal
+            exon, which results in a different 5' UTR and use of an alternate
+            start codon compared to variant 1. It encodes isoform 2, which is
+            shorter than and has a distinct N-terminus compared to isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BG477036.1, BP274730.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000592588.7/ ENSP00000467466.3
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19p13.3"
+     Protein         1..145
+                     /product="small ribosomal subunit protein uS19 isoform 2"
+                     /note="40S ribosomal protein S15; homolog of rat
+                     insulinoma; insulinoma protein; small ribosomal subunit
+                     protein uS19"
+                     /calculated_mol_wt=16909
+     Region          1..143
+                     /region_name="PTZ00096"
+                     /note="40S ribosomal protein S15; Provisional"
+                     /db_xref="CDD:185442"
+     Site            2
+                     /site_type="acetylation"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0007744|PubMed:19413330,
+                     ECO:0007744|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (P62841.2)"
+     CDS             1..145
+                     /gene="RPS15"
+                     /gene_synonym="RIG; S15; uS19"
+                     /coded_by="NM_001018.5:31..468"
+                     /note="isoform 2 is encoded by transcript variant 2"
+                     /db_xref="CCDS:CCDS12067.1"
+                     /db_xref="GeneID:6209"
+                     /db_xref="HGNC:HGNC:10388"
+                     /db_xref="MIM:180535"
+ORIGIN      
+        1 maeveqkkkr tfrkftyrgv dldqlldmsy eqlmqlysar qrrrlnrglr rkqhsllkrl
+       61 rkakkeappm ekpevvkthl rdmiilpemv gsmvgvyngk tfnqveikpe mighylgefs
+      121 itykpvkhgr pgigathssr fiplk
+//
