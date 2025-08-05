@@ -9,7 +9,7 @@ Usage:
     from phylogenetic_utils import PhylogeneticAnalyzer, run_quick_analysis
     
     # Quick analysis
-    analyzer, results = run_quick_analysis('dataset/NR_sample_5proteins.fasta')
+    analyzer, results = run_quick_analysis('../dataset/Sample 5 Proteins.fasta')
     
     # Custom analysis
     analyzer = PhylogeneticAnalyzer('your_fasta_file.fasta')

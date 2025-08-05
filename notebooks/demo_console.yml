@@ -1,0 +1,15 @@
+job: bio_hello
+description: "Demo: uppercase + filter length>=5, then aggregate stats"
+map:
+  agent: process_bio
+  params:
+    min_len: 5
+  data:
+    - ["ATCG","GCTA","TGCA","CGAT","AATG"]
+    - ["PROTEIN_A","ENZYME_B","RECEPTOR_C","KINASE_D"]
+    - ["ATP","NADH","GLUCOSE","GLYCOGEN","LACTATE"]
+    - ["HEMOGLOBIN","INSULIN","COLLAGEN","KERATIN"]
+reduce:
+  op: stats
+produce:
+  op: print

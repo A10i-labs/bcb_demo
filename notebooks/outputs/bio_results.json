@@ -1,0 +1,53 @@
+{
+  "total_input": 18,
+  "total_kept": 11,
+  "kept": [
+    "PROTEIN_A",
+    "ENZYME_B",
+    "RECEPTOR_C",
+    "KINASE_D",
+    "GLUCOSE",
+    "GLYCOGEN",
+    "LACTATE",
+    "HEMOGLOBIN",
+    "INSULIN",
+    "COLLAGEN",
+    "KERATIN"
+  ],
+  "shards": [
+    {
+      "input_size": 5,
+      "kept_size": 0,
+      "kept": []
+    },
+    {
+      "input_size": 4,
+      "kept_size": 4,
+      "kept": [
+        "PROTEIN_A",
+        "ENZYME_B",
+        "RECEPTOR_C",
+        "KINASE_D"
+      ]
+    },
+    {
+      "input_size": 5,
+      "kept_size": 3,
+      "kept": [
+        "GLUCOSE",
+        "GLYCOGEN",
+        "LACTATE"
+      ]
+    },
+    {
+      "input_size": 4,
+      "kept_size": 4,
+      "kept": [
+        "HEMOGLOBIN",
+        "INSULIN",
+        "COLLAGEN",
+        "KERATIN"
+      ]
+    }
+  ]
+}

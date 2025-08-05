@@ -3,8 +3,8 @@
 Quick Demo Script for NR Dataset Exploration
 ============================================
 
-This script provides a quick overview of the NR sample dataset.
-Run it from the datasets directory to get immediate insights.
+This script provides a quick overview of the sample protein dataset.
+Run it from the notebooks directory to get immediate insights.
 
 Usage:
     python quick_demo.py
@@ -67,13 +67,13 @@ def main():
     print("=" * 60)
     
     # Define file paths
-    fasta_file = Path('NR_sample_5proteins.fasta')
-    metadata_file = Path('NR_sample_5proteins_metadata.txt')
+    fasta_file = Path('../dataset/Sample 5 Proteins.fasta')
+    metadata_file = Path('../dataset/Sample 5 Proteins Metadata.txt')
     
     # Check if files exist
     if not fasta_file.exists():
         print(f"❌ Error: {fasta_file} not found!")
-        print("Please run this script from the datasets/ directory.")
+        print("Please run this script from the notebooks/ directory.")
         return
     
     print(f"✅ Found FASTA file: {fasta_file}")

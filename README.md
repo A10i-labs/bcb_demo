@@ -1,104 +1,96 @@
-# Protein Sequence Analysis Demo
+# BCB Demo Repository
 
-## 📁 Project Structure
+A bioinformatics computing repository demonstrating parallel processing patterns, MapReduce workflows, and biological data analysis.
+
+## 📁 Repository Structure
 
 ```
-project_root/
-├── dataset/                              # Data files
-│   ├── NR_sample_5proteins.fasta        # Protein sequences
-│   └── NR_sample_5proteins_metadata.txt # Sequence metadata
-├── Demo_non_redundant_db.ipynb          # Main protein analysis notebook
-├── Phylogenetic_test.ipynb              # Phylogenetic analysis notebook
-├── phylogenetic_utils.py                # Phylogenetic analysis library
-├── quick_demo.py                        # Standalone Python script
-└── README_Demo.md                       # This file
+bcb_demo/
+├── notebooks/              # Jupyter notebooks and analysis scripts
+│   ├── README.md              # Detailed notebook documentation
+│   ├── JupyterLab README.md   # JupyterLab setup guide
+│   ├── Demo Non Redundant DB.ipynb
+│   ├── Phylogenetic Test.ipynb
+│   ├── Quick Demo.py
+│   └── Phylogenetic Utils.py
+│
+├── src/                    # Source code implementations
+│   ├── mrp/                   # MapReduce Produce system
+│   │   ├── README.md            # MRP documentation
+│   │   ├── compile.py           # NL→YAML translator
+│   │   ├── run_job.py           # Parallel runtime
+│   │   ├── job.yml              # Example specification
+│   │   └── outputs/             # Generated results
+│   └── ray/                   # Ray distributed computing
+│       ├── README.md            # Ray examples
+│       ├── hello_world.py
+│       └── simple_example.py
+│
+├── docs/                   # Documentation and specifications
+│   ├── mapreduceproduce_prd.md  # MRP product requirements
+│   ├── Ray_prd.md              # Ray product requirements  
+│   └── ray.md                  # Ray documentation
+│
+├── dataset/                # Sample biological data
+│   ├── NR/                     # Non-redundant database samples
+│   ├── Sample 5 Proteins.fasta
+│   ├── Sample Proteins.fasta
+│   └── Sample 5 Proteins Metadata.txt
+│
+├── requirements.txt        # Python dependencies
+└── README.md              # This file
 ```
 
 ## 🚀 Quick Start
 
-### Prerequisites
-
-Install required packages:
+### MapReduce Produce System
 
 ```bash
-pip install biopython pandas numpy matplotlib seaborn scipy networkx
+cd src/mrp
+python compile.py "run the biological data processing given the data"
+python run_job.py job.yml
 ```
 
-### Running the Analysis
+### Jupyter Notebooks
 
-#### 1. **Main Protein Analysis** (`Demo_non_redundant_db.ipynb`)
-
-- **Purpose**: Comprehensive protein sequence analysis
-- **Features**: Sequence properties, amino acid composition, functional annotation
-- **Run**: Open in Jupyter and run all cells
-- **Data**: Uses `dataset/NR_sample_5proteins.fasta` and metadata
-
-#### 2. **Phylogenetic Analysis** (`Phylogenetic_test.ipynb`)
-
-- **Purpose**: Evolutionary relationship analysis
-- **Features**: Distance matrices, dendrograms, phylogenetic trees
-- **Run**: Open in Jupyter and run all cells
-- **Dependencies**: Imports `phylogenetic_utils.py`
-
-#### 3. **Quick Demo Script** (`quick_demo.py`)
-
-- **Purpose**: Standalone Python script version
-- **Run**: `python quick_demo.py`
-- **Output**: Command-line analysis results
-
-## 📊 Expected Outputs
-
-### Main Analysis
-
-- Sequence property plots (length, molecular weight, pI)
-- Amino acid composition heatmaps
-- Functional classification charts
-- Distance matrices
-
-### Phylogenetic Analysis
-
-- Distance heatmaps
-- UPGMA dendrograms
-- Network trees
-- Neighbor-joining trees (when available)
-
-## 🔧 Usage Examples
-
-### Quick phylogenetic analysis
-
-```python
-from phylogenetic_utils import run_quick_analysis
-analyzer, results = run_quick_analysis('dataset/NR_sample_5proteins.fasta')
+```bash
+cd notebooks
+jupyter lab
 ```
 
-### Individual visualizations
+### Ray Distributed Computing
 
-```python
-from phylogenetic_utils import plot_just_dendrogram
-analyzer = plot_just_dendrogram('dataset/NR_sample_5proteins.fasta')
+```bash
+cd src/ray
+python hello_world.py
 ```
 
-## 📝 File Descriptions
+## 📊 Key Components
 
-| File | Type | Description |
-|------|------|-------------|
-| `Demo_non_redundant_db.ipynb` | Notebook | Main protein analysis pipeline |
-| `Phylogenetic_test.ipynb` | Notebook | Phylogenetic tree construction |
-| `phylogenetic_utils.py` | Library | Reusable phylogenetic functions |
-| `quick_demo.py` | Script | Standalone analysis script |
-| `dataset/` | Folder | Contains FASTA and metadata files |
+- **MRP System**: Minimal English→YAML→Parallel execution for biological data
+- **Ray Examples**: Distributed computing demonstrations
+- **Notebooks**: Interactive analysis and visualization
+- **Datasets**: Sample biological sequences and metadata
 
-## ⚠️ Notes
+## 🔧 Requirements
 
-- Ensure `dataset/` folder contains the required FASTA and metadata files
-- Some phylogenetic methods may require additional dependencies
-- Large datasets may take longer to process
+- Python 3.7+
+- PyYAML 6.0+
+- Ray 2.48.0+
+- Jupyter Lab (for notebooks)
 
-## 🐛 Troubleshooting
+Install dependencies:
 
-- **Import errors**: Check that all packages are installed
-- **File not found**: Verify dataset files are in the correct location
-- **ETE3/4 issues**: Phylogenetic analysis will fall back to alternative methods
+```bash
+pip install -r requirements.txt
+```
+
+## 📖 Documentation
+
+- [MRP System](src/mrp/README.md) - MapReduce Produce documentation
+- [Notebooks](notebooks/README.md) - Jupyter notebook details  
+- [Ray Examples](src/ray/README.md) - Distributed computing examples
 
 ---
-*For questions or issues, check the notebook outputs for detailed error messages.*
+
+*Demonstrating agentic computing patterns, parallel processing, and biological data analysis workflows.*
