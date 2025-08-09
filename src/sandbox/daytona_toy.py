@@ -3,7 +3,6 @@ import sys
 from dotenv import load_dotenv
 from daytona import Daytona, DaytonaConfig
 
-# Load variables from .env file into environment
 load_dotenv()
 
 def main() -> None:
